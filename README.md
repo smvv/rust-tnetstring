@@ -14,7 +14,7 @@ serialization format.
       ...
     }
 
-See the `tests` module in `tnetstring.rs` for more examples.
+See the `tests` module in `lib.rs` for more examples.
 
 ## Compatibility
 
